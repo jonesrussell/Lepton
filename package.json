@@ -82,7 +82,7 @@
     "moment": "^2.22.2",
     "nconf": "^0.10.0",
     "notebookjs": "^0.3.2",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.24.0",
     "proxy-agent": "^3.0.0",
     "react": "^16.6.3",
     "react-bootstrap": "^0.32.4",
